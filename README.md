@@ -17,6 +17,10 @@ in Python 3 using Multiprocessing, Flask, and Docker.
 Yet another [Mandelbrot plotter](https://github.com/ebeeton/mandelbrot-go) as
 an excuse to learn Go.
 
+## Old Stuff
+
+A [game demo](https://github.com/ebeeton/pigiron-mt) from 2006.
+
 <!---
 ebeeton/ebeeton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
