@@ -14,8 +14,9 @@ using ASP.NET Core, Docker, SQL Server and Seq.
 A [Mandelbrot plotter](https://github.com/ebeeton/fractal-demo-python) written
 in Python 3 using Multiprocessing, Flask, and Docker.
 
-Yet another [Mandelbrot plotter](https://github.com/ebeeton/mandelbrot-go) as
-an excuse to learn Go.
+Yet another [Buddhabrot](https://github.com/ebeeton/buddhabrot-go) and
+[Mandelbrot plotter](https://github.com/ebeeton/mandelbrot-go) as an excuse to
+learn Go.
 
 ## Old Stuff
 
