@@ -1,12 +1,4 @@
-# evan.ToString();
-
-I'm a software engineer who's been working with the .NET stack and SQL Server
-pretty much my whole career, but was also lucky enough to work on a couple of
-embedded systems in C and C++ for a few years. I also enjoy writing code in
-Python, exploring Linux, and learning how to leverage the shell to make life
-easier.
-
-## Projects
+# Spare Time Projects
 
 A [Buddhabrot plotter API](https://github.com/ebeeton/buddhabrot) written in C#
 using ASP.NET Core, Docker, SQL Server and Seq.
