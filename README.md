@@ -1,8 +1,7 @@
 # Spare Time Projects
 
-A [Buddhabrot](https://github.com/ebeeton/buddhabrot-go) and
-[Mandelbrot plotter](https://github.com/ebeeton/mandelbrot-go) as an excuse to
-learn Go.
+A [Buddhabrot](https://github.com/ebeeton/buddhabrot-go) plotter to learn Go
+and experiment with Docker and RabbitMQ.
 
 A [Buddhabrot plotter API](https://github.com/ebeeton/buddhabrot) written in C#
 using ASP.NET Core, Docker, SQL Server and Seq.
